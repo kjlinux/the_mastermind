@@ -1,0 +1,58 @@
+C:\Users\Admin\source\repos\TheMastermind\TheMastermind\bin\Debug\TheMastermind.exe.config
+C:\Users\Admin\source\repos\TheMastermind\TheMastermind\bin\Debug\TheMastermind.exe
+C:\Users\Admin\source\repos\TheMastermind\TheMastermind\bin\Debug\TheMastermind.pdb
+C:\Users\Admin\source\repos\TheMastermind\TheMastermind\bin\Debug\TheMastermind.xml
+C:\Users\Admin\source\repos\TheMastermind\TheMastermind\obj\Debug\TheMastermind.vbproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\TheMastermind\TheMastermind\obj\Debug\TheMastermind.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\TheMastermind\TheMastermind\obj\Debug\TheMastermind.Form1.resources
+C:\Users\Admin\source\repos\TheMastermind\TheMastermind\obj\Debug\TheMastermind.Resources.resources
+C:\Users\Admin\source\repos\TheMastermind\TheMastermind\obj\Debug\TheMastermind.vbproj.GenerateResource.cache
+C:\Users\Admin\source\repos\TheMastermind\TheMastermind\obj\Debug\TheMastermind.vbproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\TheMastermind\TheMastermind\obj\Debug\TheMastermind.exe
+C:\Users\Admin\source\repos\TheMastermind\TheMastermind\obj\Debug\TheMastermind.xml
+C:\Users\Admin\source\repos\TheMastermind\TheMastermind\obj\Debug\TheMastermind.pdb
+C:\Users\Admin\Documents\TheMastermind\TheMastermind\bin\Debug\TheMastermind.exe.config
+C:\Users\Admin\Documents\TheMastermind\TheMastermind\bin\Debug\TheMastermind.exe
+C:\Users\Admin\Documents\TheMastermind\TheMastermind\bin\Debug\TheMastermind.pdb
+C:\Users\Admin\Documents\TheMastermind\TheMastermind\bin\Debug\TheMastermind.xml
+C:\Users\Admin\Documents\TheMastermind\TheMastermind\obj\Debug\TheMastermind.vbproj.AssemblyReference.cache
+C:\Users\Admin\Documents\TheMastermind\TheMastermind\obj\Debug\TheMastermind.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Documents\TheMastermind\TheMastermind\obj\Debug\TheMastermind.Form1.resources
+C:\Users\Admin\Documents\TheMastermind\TheMastermind\obj\Debug\TheMastermind.Resources.resources
+C:\Users\Admin\Documents\TheMastermind\TheMastermind\obj\Debug\TheMastermind.vbproj.GenerateResource.cache
+C:\Users\Admin\Documents\TheMastermind\TheMastermind\obj\Debug\TheMastermind.vbproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\TheMastermind\TheMastermind\obj\Debug\TheMastermind.exe
+C:\Users\Admin\Documents\TheMastermind\TheMastermind\obj\Debug\TheMastermind.xml
+C:\Users\Admin\Documents\TheMastermind\TheMastermind\obj\Debug\TheMastermind.pdb
+C:\Users\GHOST Fizer-48P4372\Documents\TheMastermind\TheMastermind\bin\Debug\TheMastermind.exe.config
+C:\Users\GHOST Fizer-48P4372\Documents\TheMastermind\TheMastermind\bin\Debug\TheMastermind.exe
+C:\Users\GHOST Fizer-48P4372\Documents\TheMastermind\TheMastermind\bin\Debug\TheMastermind.pdb
+C:\Users\GHOST Fizer-48P4372\Documents\TheMastermind\TheMastermind\bin\Debug\TheMastermind.xml
+C:\Users\GHOST Fizer-48P4372\Documents\TheMastermind\TheMastermind\obj\Debug\TheMastermind.vbproj.AssemblyReference.cache
+C:\Users\GHOST Fizer-48P4372\Documents\TheMastermind\TheMastermind\obj\Debug\TheMastermind.vbproj.SuggestedBindingRedirects.cache
+C:\Users\GHOST Fizer-48P4372\Documents\TheMastermind\TheMastermind\obj\Debug\TheMastermind.Form1.resources
+C:\Users\GHOST Fizer-48P4372\Documents\TheMastermind\TheMastermind\obj\Debug\TheMastermind.Resources.resources
+C:\Users\GHOST Fizer-48P4372\Documents\TheMastermind\TheMastermind\obj\Debug\TheMastermind.vbproj.GenerateResource.cache
+C:\Users\GHOST Fizer-48P4372\Documents\TheMastermind\TheMastermind\obj\Debug\TheMastermind.vbproj.CoreCompileInputs.cache
+C:\Users\GHOST Fizer-48P4372\Documents\TheMastermind\TheMastermind\obj\Debug\TheMastermind.exe
+C:\Users\GHOST Fizer-48P4372\Documents\TheMastermind\TheMastermind\obj\Debug\TheMastermind.xml
+C:\Users\GHOST Fizer-48P4372\Documents\TheMastermind\TheMastermind\obj\Debug\TheMastermind.pdb
+C:\Users\GHOST Fizer-48P4372\Documents\TheMastermind\TheMastermind\obj\Debug\TheMastermind.FenetreAcceuil.resources
+C:\Users\GHOST Fizer-48P4372\Documents\KOFFI JUDE & NATESSOU GHISLAIN\TheMastermind\bin\Debug\TheMastermind.exe.config
+C:\Users\GHOST Fizer-48P4372\Documents\KOFFI JUDE & NATESSOU GHISLAIN\TheMastermind\bin\Debug\TheMastermind.exe.manifest
+C:\Users\GHOST Fizer-48P4372\Documents\KOFFI JUDE & NATESSOU GHISLAIN\TheMastermind\bin\Debug\TheMastermind.application
+C:\Users\GHOST Fizer-48P4372\Documents\KOFFI JUDE & NATESSOU GHISLAIN\TheMastermind\bin\Debug\TheMastermind.exe
+C:\Users\GHOST Fizer-48P4372\Documents\KOFFI JUDE & NATESSOU GHISLAIN\TheMastermind\bin\Debug\TheMastermind.pdb
+C:\Users\GHOST Fizer-48P4372\Documents\KOFFI JUDE & NATESSOU GHISLAIN\TheMastermind\bin\Debug\TheMastermind.xml
+C:\Users\GHOST Fizer-48P4372\Documents\KOFFI JUDE & NATESSOU GHISLAIN\TheMastermind\obj\Debug\TheMastermind.vbproj.AssemblyReference.cache
+C:\Users\GHOST Fizer-48P4372\Documents\KOFFI JUDE & NATESSOU GHISLAIN\TheMastermind\obj\Debug\TheMastermind.vbproj.SuggestedBindingRedirects.cache
+C:\Users\GHOST Fizer-48P4372\Documents\KOFFI JUDE & NATESSOU GHISLAIN\TheMastermind\obj\Debug\TheMastermind.FenetreAcceuil.resources
+C:\Users\GHOST Fizer-48P4372\Documents\KOFFI JUDE & NATESSOU GHISLAIN\TheMastermind\obj\Debug\TheMastermind.Form1.resources
+C:\Users\GHOST Fizer-48P4372\Documents\KOFFI JUDE & NATESSOU GHISLAIN\TheMastermind\obj\Debug\TheMastermind.Resources.resources
+C:\Users\GHOST Fizer-48P4372\Documents\KOFFI JUDE & NATESSOU GHISLAIN\TheMastermind\obj\Debug\TheMastermind.vbproj.GenerateResource.cache
+C:\Users\GHOST Fizer-48P4372\Documents\KOFFI JUDE & NATESSOU GHISLAIN\TheMastermind\obj\Debug\TheMastermind.vbproj.CoreCompileInputs.cache
+C:\Users\GHOST Fizer-48P4372\Documents\KOFFI JUDE & NATESSOU GHISLAIN\TheMastermind\obj\Debug\TheMastermind.exe.manifest
+C:\Users\GHOST Fizer-48P4372\Documents\KOFFI JUDE & NATESSOU GHISLAIN\TheMastermind\obj\Debug\TheMastermind.application
+C:\Users\GHOST Fizer-48P4372\Documents\KOFFI JUDE & NATESSOU GHISLAIN\TheMastermind\obj\Debug\TheMastermind.exe
+C:\Users\GHOST Fizer-48P4372\Documents\KOFFI JUDE & NATESSOU GHISLAIN\TheMastermind\obj\Debug\TheMastermind.xml
+C:\Users\GHOST Fizer-48P4372\Documents\KOFFI JUDE & NATESSOU GHISLAIN\TheMastermind\obj\Debug\TheMastermind.pdb

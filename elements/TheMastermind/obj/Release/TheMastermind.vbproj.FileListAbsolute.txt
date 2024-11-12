@@ -1,0 +1,13 @@
+C:\Users\GHOST Fizer-48P4372\Documents\TheMastermind\TheMastermind\bin\Release\TheMastermind.exe.config
+C:\Users\GHOST Fizer-48P4372\Documents\TheMastermind\TheMastermind\bin\Release\TheMastermind.exe
+C:\Users\GHOST Fizer-48P4372\Documents\TheMastermind\TheMastermind\bin\Release\TheMastermind.pdb
+C:\Users\GHOST Fizer-48P4372\Documents\TheMastermind\TheMastermind\bin\Release\TheMastermind.xml
+C:\Users\GHOST Fizer-48P4372\Documents\TheMastermind\TheMastermind\obj\Release\TheMastermind.vbproj.AssemblyReference.cache
+C:\Users\GHOST Fizer-48P4372\Documents\TheMastermind\TheMastermind\obj\Release\TheMastermind.vbproj.SuggestedBindingRedirects.cache
+C:\Users\GHOST Fizer-48P4372\Documents\TheMastermind\TheMastermind\obj\Release\TheMastermind.Form1.resources
+C:\Users\GHOST Fizer-48P4372\Documents\TheMastermind\TheMastermind\obj\Release\TheMastermind.Resources.resources
+C:\Users\GHOST Fizer-48P4372\Documents\TheMastermind\TheMastermind\obj\Release\TheMastermind.vbproj.GenerateResource.cache
+C:\Users\GHOST Fizer-48P4372\Documents\TheMastermind\TheMastermind\obj\Release\TheMastermind.vbproj.CoreCompileInputs.cache
+C:\Users\GHOST Fizer-48P4372\Documents\TheMastermind\TheMastermind\obj\Release\TheMastermind.exe
+C:\Users\GHOST Fizer-48P4372\Documents\TheMastermind\TheMastermind\obj\Release\TheMastermind.xml
+C:\Users\GHOST Fizer-48P4372\Documents\TheMastermind\TheMastermind\obj\Release\TheMastermind.pdb
